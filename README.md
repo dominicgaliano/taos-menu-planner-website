@@ -48,7 +48,7 @@ Furthermore, some goals that I want to use this website to achieve as menu plann
 
 ### December, 8, 2022
 
-Today I created a rough sketch of the UI that I plan to implement for this project. The design is meant to be simplistic and easy to use. My goal is for the main functionality to be accessible without needing to login or navigate to any pages other than the index.
+Today I created a [rough sketch of the UI](https://github.com/dominicgaliano/taos-menu-planner-website/blob/main/Taos%20Menu%20Planner%20Website%20Rough%20UI%20Design.pdf) that I plan to implement for this project. The design is meant to be simplistic and easy to use. My goal is for the main functionality to be accessible without needing to login or navigate to any pages other than the index.
 
 ### December, 5, 2022
 
