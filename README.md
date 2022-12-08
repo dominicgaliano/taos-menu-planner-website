@@ -5,7 +5,7 @@ A responsive web app coordinating all things meal related for Taos Co-Op (Austin
 ## The purpose of this project is to:
 
 1. Develop a functional, mobile-first web-app for the Taos Co-Op in Austin, TX
-2. Develop a framework to maintain and modify the site after
+2. Develop a framework to maintain and modify the site after I am no longer the meal planner.
 3. Improve my frontend and backend development skills
 
 Furthermore, some goals that I want to use this website to achieve as menu planner are as follows:
