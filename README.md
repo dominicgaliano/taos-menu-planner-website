@@ -46,6 +46,10 @@ Furthermore, some goals that I want to use this website to achieve as menu plann
 
 ## Dev Blog
 
+### December, 8, 2022
+
+Today I created a rough sketch of the UI that I plan to implement for this project. The design is meant to be simplistic and easy to use. My goal is for the main functionality to be accessible without needing to login or navigate to any pages other than the index.
+
 ### December, 5, 2022
 
 Today I began the process of creating the Taos menu planner website. My first plan of action was to outline some personal goals and menu planner goals that I hope to achieve throughout the implementation of this project. I also created a list of essential, desired, and stretch components for the project. The first day of classes is Jan 9th, so I plan to start by creating an MVP using just the essential components with frontend styling.
