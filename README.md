@@ -48,7 +48,7 @@ Furthermore, some goals that I want to use this website to achieve as menu plann
 
 ### December, 19, 2022
 
-After attempting to start this project, I realized that I needed more formal education with React, so I completed a free online course.
+After attempting to start this project, I realized that I needed more formal education with React, so I completed a free online course. Next, I started creating the website using React with Typescript. I was initially hesitant to take on Typescript at the same time as a new project, but I figured that the benefits it would provide during development would likely outweigh the learning curve. I found a hamburger menu npm package and started to implement that. I am still having issues getting it to look good, but for now I am going to move along and continue building out the components. I also created an account on AWS to start working on the backend once I get the MVP front-end running.
 
 ### December, 8, 2022
 
