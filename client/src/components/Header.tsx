@@ -1,34 +1,24 @@
 import Sidebar from "./Sidebar";
+import "./Header.css";
+import { FaUser } from "react-icons/fa";
 
 function Header() {
   return (
-    <div className="Header">
-      <ul className="flex">
-        <li className="mr-6">
+    <header className="header bg-slate-800 p-3 font-bold text-3xl text-gray-400">
+      <ul className="flex justify-between items-center">
+        <li>
           <Sidebar />
         </li>
-        <li className="mr-6">
-          <a className="text-blue-500 hover:text-blue-800" href="#">
-            Active
-          </a>
+        <li>
+          <h1>Taos Menus</h1>
         </li>
-        <li className="mr-6">
-          <a className="text-blue-500 hover:text-blue-800" href="#">
-            Link
-          </a>
-        </li>
-        <li className="mr-6">
-          <a className="text-blue-500 hover:text-blue-800" href="#">
-            Link
-          </a>
-        </li>
-        <li className="mr-6">
-          <a className="text-gray-400 cursor-not-allowed" href="#">
-            Disabled
+        <li>
+          <a href="#">
+            <FaUser />
           </a>
         </li>
       </ul>
-    </div>
+    </header>
   );
 }
 
